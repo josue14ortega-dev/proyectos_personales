@@ -3,7 +3,7 @@
 Este repositorio es mi espacio para crear y experimentar con **Python** e **Inteligencia Artificial** mientras estudio mi carrera de Ingeniería en Sistemas.
 
 ## 📌 Proyectos actuales
-* **[Nombre del Proyecto 1]**: Breve descripción de qué hace.
+* PROYECTO.py: Crea un Diccionario de productos que indica cual fue la ganancia en cada uno.
 *
 
 ## 🛠️ Herramientas
