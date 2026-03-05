@@ -4,7 +4,8 @@ Este repositorio es mi espacio para crear y experimentar con **Python** e **Inte
 
 ## 📌 Proyectos actuales
 * PROYECTO.py: Crea un Diccionario de productos que indica cual fue la ganancia en cada uno.
-* simulador_de_precios.py: Checa los productso y indica su descuento.
+* simulador_de_precios.py: Checa los productos y indica su descuento.
+* calculator_in.py: Le dice al dueño del negocio el precio que tendria su producto si aumentara de precio.
 
 ## 🛠️ Herramientas
 * **Lenguaje:** Python 🐍
