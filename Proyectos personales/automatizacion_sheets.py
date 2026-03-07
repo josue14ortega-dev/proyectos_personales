@@ -9,10 +9,11 @@ import pandas as pd
 df = pd.read_csv("ventas - Hoja 1.csv")
 
 def calcular_ajuste(precio):
-    if precio < 50:
-        return precio * 0.15
+    if precio < 30:
+        return precio * 0.20
     else:
         return 0
+print ("Ajustando el precio economico... ")
 
 
 df['Aumento'] = df['Precio'].apply(calcular_ajuste)
