@@ -10,7 +10,8 @@ df = pd.read_csv("ventas - Hoja 1.csv")
 
 def calcular_ajuste(precio):
     if precio < 30:
-        return precio * 0.20
+        print(f'¡Ajustando producto ecomomico de ${precio}!')
+        return precio * 0.2
     else:
         return 0
 print ("Ajustando el precio economico... ")
