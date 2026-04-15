@@ -1,3 +1,13 @@
+'''
+Simulador de Metas Financieras con Interés Compuesto
+Este es un script desarrollado en Python diseñado para calcular 
+el tiempo necesario para alcanzar una meta de ahorro específica, 
+considerando rendimientos diarios y capitalización de intereses 
+(interés compuesto).
+nombre: Josue
+fecha. 01-Abril-2026
+'''
+
 saldo_actual = float(input('ingrese el saldo que tienes hoy: '))
 tasa_anual = float(input('Cual es su tasa anual en su banco: '))
 meta = float(input('¿Cual es el precio? '))
