@@ -23,7 +23,7 @@ elif cambio =='2':
     
     
 else:
-    print('asi no es papi')
+    print('Resultado invalido')
     
 
 print(f'El resultado es: {resultado:.2f}')

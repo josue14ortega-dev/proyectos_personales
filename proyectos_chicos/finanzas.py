@@ -10,7 +10,7 @@ fecha. 01-Abril-2026
 
 saldo_actual = float(input('ingrese el saldo que tienes hoy: '))
 tasa_anual = float(input('Cual es su tasa anual en su banco: '))
-meta = float(input('¿Cual es el precio? '))
+meta = float(input('¿Cual es el precio/valor de la meta que quiere alcanzar? '))
 
 tasa_diaria = (tasa_anual / 100) / 365
 if tasa_anual <= 0:
