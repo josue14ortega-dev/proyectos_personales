@@ -1,8 +1,6 @@
 import json
 import os
 
-
-
 if os.path.exists('finanzas.json'):
     with open('finanzas.json', 'r') as archivo:
         transacciones = json.load(archivo)
